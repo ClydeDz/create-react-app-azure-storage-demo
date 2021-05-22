@@ -8,7 +8,7 @@ function Home() {
           <h1>
             Home
           </h1>
-          <p>Update 2</p>
+          <p>Update 3</p>
         </header>
       </div>
     );
